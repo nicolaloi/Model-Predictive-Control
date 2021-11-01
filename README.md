@@ -5,6 +5,8 @@ Implementation of a variety of MPC controllers for temperature regulation of a b
 
 Project rated with full marks.
 
+##
+
 ## Tasks
 
 ### Unconstrained Optimal Control with LQR
