@@ -43,7 +43,7 @@ The heat transfer between different zones is typically not modelled or known exa
 
 ## Setup
 
-Further info on this programming exercise can be found in [Assignment.pdf](Assignment.pdf). Solutions as well as considerations on the problem itself are instead in [Report.pdf](Report.pdf).  
+Further info on this programming exercise can be found in [Assignment.pdf](Assignment.pdf). Solutions as well as considerations on the problems are instead in [Report.pdf](Report.pdf).  
   
 Run the whole project from [run_simulations.m](run_simulations.m).  
   
