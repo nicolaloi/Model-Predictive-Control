@@ -9,6 +9,8 @@ Project rated with full marks.
 
 ## Tasks
 
+Further info: [Assignment.pdf](Assignment.pdf) and [Report.pdf](Report.pdf).  
+
 ### Unconstrained Optimal Control with LQR
 Design of a discrete-time infinite horizon Linear Quadratic Regulator for reference tracking.
 Implementation of an heuristic LQR approach for controller tuning. This method aims at finding diagonal cost matrices such that the LQR minimizes the deviation from the desired stady-state.
@@ -44,8 +46,6 @@ The heat transfer between different zones is typically not modelled or known exa
 </p>
 
 ## Setup
-
-Further info on this programming exercise can be found in [Assignment.pdf](Assignment.pdf). Solutions as well as considerations on the problems are instead in [Report.pdf](Report.pdf).  
   
 Run the whole project from [run_simulations.m](run_simulations.m).  
   
