@@ -40,7 +40,7 @@ Extend the soft-constraint MPC controller by leveraging the knowledge of the fut
 
 ### Offset-Free MPC
 Disturbances in the heat flows are never known exactly. Therefore, estimation of the actual disturbances is needed to ensure offset-free reference tracking.
-The heat transfer between different zones is typically not modelled or known exactly. Estimate the resulting disturbance such that offset-free tracking is ensured, modeling it as a time-invariant unknown disturbance. The simulation of the system additionally includes unmodeled time-varying disturbances, hence the observer dynamics cannot be chosen arbitrarily fast and perfect tracking cannot be expected.
+The heat transfer between different zones is typically not modelled or known exactly. Estimate the resulting disturbance such that offset-free tracking is ensured, modeling it as a time-invariant unknown disturbance. The simulation of the system additionally includes unmodeled time-varying disturbances, hence a perfect tracking cannot be expected.
 <p align= "center"> 
 <img height="225" src="https://user-images.githubusercontent.com/79461707/139401712-e07473f9-3ee5-4a11-b327-86e040ecf538.png"/>
 </p>
